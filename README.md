@@ -1,11 +1,9 @@
-App de Delivery
+# App de Delivery
 
-Descrição
+## Descrição
 
-Funcionalidades
+# Funcionalidades
 
-Além disso, a aplicação inclui uma série de outras funcionalidades, como:
+# Tecnologias utilizadas
 
-Tecnologias utilizadas
-
-Como executar a aplicação
+# Como executar a aplicação
