@@ -1,9 +1,9 @@
 # App de Delivery
 
-## Descrição
+## Descrição:
 
-# Funcionalidades
+## Funcionalidades:
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas:
 
-# Como executar a aplicação
+## Como executar a aplicação:
