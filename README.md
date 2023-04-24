@@ -1,5 +1,4 @@
 # App de Delivery
-
 ## Descrição:
 
 ## Funcionalidades:
